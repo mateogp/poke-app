@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as s,a as c}from"./index-5f7a1b10.js";const o={},r={class:"container text-center pt-5"},n=c("h1",null,"The register will be here",-1),_=[n];function a(i,l){return t(),s("div",r,_)}const h=e(o,[["render",a]]);export{h as default};

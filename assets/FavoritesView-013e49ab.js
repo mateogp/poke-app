@@ -1,0 +1,1 @@
+import{M as a}from"./MainNav-1a830532.js";import{_ as t,r as n,o as s,c as r,e as c,F as i,a as e}from"./index-5f7a1b10.js";const _={components:{MainNav:a}},p=e("div",{class:"container text-center"},[e("h1",null,"Favorites view")],-1);function l(m,d,v,f,u,N){const o=n("MainNav");return s(),r(i,null,[c(o),p],64)}const M=t(_,[["render",l]]);export{M as default};
